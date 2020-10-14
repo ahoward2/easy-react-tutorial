@@ -6,9 +6,9 @@
   },
   "config": {
     "testRunner": {
-      "command": "./node_modules/.bin/mocha",
+      "command": "./node_modules/.bin/jest",
       "args": {
-        "tap": "--reporter=mocha-tap-reporter"
+        "tap": "--reporter=jest-tap-reporter"
       },
       "directory": "coderoad"
     },
@@ -21,7 +21,7 @@
       ]
     },
     "repo": {
-      "uri": "https://github.com/moT01/first-tut",
+      "uri": "https://github.com/ahoward2/easy-react-tutorial",
       "branch": "v0.2.0"
     },
     "dependencies": [
