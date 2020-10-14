@@ -10,4 +10,4 @@ In order to use react, you need to import it!
 
 ### 1.1 
 
-Import react by adding `import React from 'react';` to the top of `App.js`.
+Create a `/public` folder inside the root directory of your app.
