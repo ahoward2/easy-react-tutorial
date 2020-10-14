@@ -10,7 +10,7 @@ config:
       - cd coderoad && npm install
   repo:
     uri: https://github.com/ahoward2/easy-react-tutorial
-    branch: v0.2.4
+    branch: v0.2.5
   dependencies:
     - name: node
       version: '>=10'
