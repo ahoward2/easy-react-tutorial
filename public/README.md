@@ -1,0 +1,1 @@
+# This README is to check if there is a public folder in the root dir
