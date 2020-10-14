@@ -40,7 +40,7 @@
       "steps": [
         {
           "id": "1.1",
-          "content": "",
+          "content": "Create a `/public` folder inside the root directory of your app.",
           "setup": {
             "commits": [
               "e69f1a5f6a2a613fa9ff4d01c3a5a0b69611d929"
