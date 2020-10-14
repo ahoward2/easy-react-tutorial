@@ -17,12 +17,12 @@
         "cd coderoad && npm install"
       ],
       "commits": [
-        "7cda0e1ffd83865e8ed10c4c1296400d1833bc99"
+        "d458fa340f853075e98e85c30b1c019b4f832ddf"
       ]
     },
     "repo": {
       "uri": "https://github.com/ahoward2/easy-react-tutorial",
-      "branch": "v0.2.0"
+      "branch": "v0.2.4"
     },
     "dependencies": [
       {
@@ -43,7 +43,13 @@
           "content": "",
           "setup": {
             "commits": [
-              "6b2899acee780a73f00e2d4b2551ba2cb544bf39"
+              "e69f1a5f6a2a613fa9ff4d01c3a5a0b69611d929"
+            ]
+          },
+          "solution": {
+            "commits": [
+              "7b7dcf5194c22bef1613c75c794972383129a502",
+              "36d231d9c615ae1a4aa8ea6f61b45aba8303d361"
             ]
           }
         }
