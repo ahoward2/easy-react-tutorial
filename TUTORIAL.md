@@ -8,7 +8,7 @@ Welcome to React For Noobs Tutorial! Never too late to ditch Angular ;)
 
 In order to use react, you need to import it!
 
-### 1.1 
+### 1.1 Level 1 Step 1
 
 Create a `/public` folder inside the root directory of your app.
 
