@@ -11,3 +11,7 @@ In order to use react, you need to import it!
 ### 1.1 
 
 Create a `/public` folder inside the root directory of your app.
+
+#### HINTS
+
+- Make sure there is a folder named 'public' in your root directory
