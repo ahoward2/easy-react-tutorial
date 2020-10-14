@@ -22,7 +22,7 @@
     },
     "repo": {
       "uri": "https://github.com/ahoward2/easy-react-tutorial",
-      "branch": "v0.2.4"
+      "branch": "v0.2.5"
     },
     "dependencies": [
       {
@@ -48,8 +48,7 @@
           },
           "solution": {
             "commits": [
-              "7b7dcf5194c22bef1613c75c794972383129a502",
-              "36d231d9c615ae1a4aa8ea6f61b45aba8303d361"
+              "7b7dcf5194c22bef1613c75c794972383129a502"
             ]
           }
         }
