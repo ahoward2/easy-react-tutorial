@@ -1,0 +1,53 @@
+{
+  "version": "0.1.0",
+  "summary": {
+    "title": "React For Noobs",
+    "description": "Welcome to React For Noobs Tutorial! Never too late to ditch Angular ;)"
+  },
+  "config": {
+    "testRunner": {
+      "command": "./node_modules/.bin/mocha",
+      "args": {
+        "tap": "--reporter=mocha-tap-reporter"
+      },
+      "directory": "coderoad"
+    },
+    "setup": {
+      "commands": [
+        "cd coderoad && npm install"
+      ],
+      "commits": [
+        "7cda0e1ffd83865e8ed10c4c1296400d1833bc99"
+      ]
+    },
+    "repo": {
+      "uri": "https://github.com/moT01/first-tut",
+      "branch": "v0.2.0"
+    },
+    "dependencies": [
+      {
+        "name": "node",
+        "version": ">=10"
+      }
+    ]
+  },
+  "levels": [
+    {
+      "id": "1",
+      "title": "Import react",
+      "summary": "In level 1, you're going to import the react library!",
+      "content": "In order to use react, you need to import it!",
+      "steps": [
+        {
+          "id": "1.1",
+          "content": "",
+          "setup": {
+            "commits": [
+              "6b2899acee780a73f00e2d4b2551ba2cb544bf39"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
